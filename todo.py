@@ -46,10 +46,10 @@ def タスクを削除():
 def メニュー():
     while True:
         print("\n=== TODOリストメニュー ===")
-        print("1. タスク追加")
-        print("2. タスク表示")
-        print("3. タスク削除")
-        print("4. 終了")
+        print("1. タスク追加2")
+        print("2. タスク表示2")
+        print("3. タスク削除2")
+        print("4. 終了2")
         choice = input("番号を選んでください: ")
 
         if choice == "1":
